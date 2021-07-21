@@ -1,4 +1,7 @@
 /**
  * @author: Sanchezcode
  */
-alert("bienvenidos a GitHub");
+
+const mensaje = () =>{
+    alert("bienvenidos a GitHub");
+}
